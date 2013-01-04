@@ -5,6 +5,7 @@ Solved so far
 
 * 2Sum
 * 3Sum
+* Balanced Binary Tree
 * Binary Tree Inorder Traversal
 * Binary Tree Level Order Traversal
 * Edit Distance
