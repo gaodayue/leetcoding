@@ -7,6 +7,8 @@ Solved so far
 * 3Sum
 * Add Two Numbers
 * Balanced Binary Tree
+* Best Time to Buy and Sell Stock
+* Best Time to Buy and Sell Stock II
 * Binary Tree Inorder Traversal
 * Binary Tree Level Order Traversal
 * Edit Distance
