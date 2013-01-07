@@ -13,6 +13,7 @@ Solved so far
 * Binary Tree Inorder Traversal
 * Binary Tree Level Order Traversal
 * Binary Tree Level Order Traversal II
+* Climbing Stairs
 * Edit Distance
 * Longest Common Prefix
 * Rotate List
