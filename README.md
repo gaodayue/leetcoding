@@ -16,6 +16,8 @@ Solved so far
 * Climbing Stairs
 * Edit Distance
 * Longest Common Prefix
+* Longest Substring Without Repeating Characters
+* Path Sum
 * Rotate List
 * Same Tree
 * Two Sum
