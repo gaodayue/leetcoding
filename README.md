@@ -14,6 +14,7 @@ Solved so far
 * Binary Tree Level Order Traversal
 * Binary Tree Level Order Traversal II
 * Climbing Stairs
+* Combinations
 * Edit Distance
 * Longest Common Prefix
 * Longest Substring Without Repeating Characters
