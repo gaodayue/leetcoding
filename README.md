@@ -18,6 +18,7 @@ Solved so far
 * Longest Common Prefix
 * Longest Substring Without Repeating Characters
 * Path Sum
+* Path Sum II
 * Rotate List
 * Same Tree
 * Two Sum
