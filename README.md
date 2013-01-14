@@ -15,11 +15,16 @@ Solved so far
 * Binary Tree Level Order Traversal II
 * Climbing Stairs
 * Combinations
+* Construct Binary Tree From Inorder and Postorder Traversal
+* Construct Binary Tree From Inorder and Preorder Traversal
 * Edit Distance
 * Longest Common Prefix
 * Longest Substring Without Repeating Characters
+* Maximum Depth of Binary Tree
+* Minimum Depth of Binary Tree
 * Path Sum
 * Path Sum II
 * Rotate List
 * Same Tree
 * Two Sum
+* Valid Palindrome
