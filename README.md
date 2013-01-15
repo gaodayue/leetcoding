@@ -13,6 +13,7 @@ Solved so far
 * Binary Tree Inorder Traversal
 * Binary Tree Level Order Traversal
 * Binary Tree Level Order Traversal II
+* Binary Tree Maximum Path Sum
 * Climbing Stairs
 * Combinations
 * Construct Binary Tree From Inorder and Postorder Traversal
@@ -22,9 +23,11 @@ Solved so far
 * Longest Substring Without Repeating Characters
 * Maximum Depth of Binary Tree
 * Minimum Depth of Binary Tree
+* Pascal's Triangle
 * Path Sum
 * Path Sum II
 * Rotate List
 * Same Tree
+* Triangle
 * Two Sum
 * Valid Palindrome
