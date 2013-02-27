@@ -18,16 +18,20 @@ Solved so far
 * Combinations
 * Construct Binary Tree From Inorder and Postorder Traversal
 * Construct Binary Tree From Inorder and Preorder Traversal
+* Decode Ways
 * Edit Distance
 * Longest Common Prefix
+* Longest Consecutive Sequence
 * Longest Substring Without Repeating Characters
 * Maximum Depth of Binary Tree
 * Minimum Depth of Binary Tree
 * Pascal's Triangle
 * Path Sum
 * Path Sum II
+* Restore IP Addresses
 * Rotate List
 * Same Tree
+* Subsets
 * Triangle
 * Two Sum
 * Valid Palindrome
