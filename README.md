@@ -21,6 +21,7 @@ Solved so far
 * Decode Ways
 * Edit Distance
 * Flatten Binary Tree to Linked List
+* Generate Parentheses
 * Longest Common Prefix
 * Longest Consecutive Sequence
 * Longest Substring Without Repeating Characters
@@ -29,6 +30,8 @@ Solved so far
 * Pascal's Triangle
 * Path Sum
 * Path Sum II
+* Populating Next Right Pointers in Each Node
+* Populating Next Right Pointers in Each Node II
 * Remove Duplicates From Sorted Array 
 * Remove Duplicates From Sorted Array II
 * Remove Element
