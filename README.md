@@ -3,7 +3,6 @@ My solutions to [leetcode](http://www.leetcode.com/onlinejudge) online judge pro
 Solved so far
 -------------
 
-* 2Sum
 * 3Sum
 * Add Two Numbers
 * Balanced Binary Tree
@@ -27,6 +26,8 @@ Solved so far
 * Longest Substring Without Repeating Characters
 * Maximum Depth of Binary Tree
 * Minimum Depth of Binary Tree
+* Palindrome Partitioning
+* Palindrome Partitioning II
 * Pascal's Triangle
 * Path Sum
 * Path Sum II

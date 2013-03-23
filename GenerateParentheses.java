@@ -1,27 +1,26 @@
 import java.util.ArrayList;
 
 public class GenerateParentheses {
-    private void recur_helper(ArrayList<String> ans, char[] buf, int depth,
-                              int left_pnum, int right_pnum, int n) {
-        if (right_pnum == n) {
+    private void recur_helper(ArrayList<String> ans, char[] buf, int pos,
+                              int lparen_num, int rparen_num, int n) {
+        if (rparen_num == n) {
             ans.add(new String(buf));
             return;
         }
-        if (left_pnum < n) {
-            buf[depth] = '(';
-            recur_helper(ans, buf, depth+1, left_pnum+1, right_pnum, n);
+        if (lparen_num < n) {
+            buf[pos] = '(';
+            recur_helper(ans, buf, pos+1, lparen_num+1, rparen_num, n);
         }
-        if (left_pnum > right_pnum) {
-            buf[depth] = ')';
-            recur_helper(ans, buf, depth+1, left_pnum, right_pnum+1, n);
+        if (lparen_num > rparen_num) {
+            buf[pos] = ')';
+            recur_helper(ans, buf, pos+1, lparen_num, rparen_num+1, n);
         }
     }
     
     public ArrayList<String> generateParenthesis(int n) {
         ArrayList<String> ans = new ArrayList<String>();
         char[] buf = new char[2*n];
-        buf[0] = '(';
-        recur_helper(ans, buf, 1, 1, 0, n);
+        recur_helper(ans, buf, /*pos=*/0, /*lparen_num=*/0, /*rparen_num=*/0, n);
         return ans;
     }
 }
