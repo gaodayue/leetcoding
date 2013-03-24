@@ -25,9 +25,11 @@ Solved so far
 * Longest Consecutive Sequence
 * Longest Substring Without Repeating Characters
 * Maximum Depth of Binary Tree
+* Merge Sorted Array
 * Minimum Depth of Binary Tree
 * Palindrome Partitioning
 * Palindrome Partitioning II
+* Partition List
 * Pascal's Triangle
 * Path Sum
 * Path Sum II
